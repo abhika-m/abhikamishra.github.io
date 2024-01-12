@@ -27,12 +27,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Java, C, C++, Python, JavaScript, React
+* Machine Learning
+  * Pytorch, Huggingface, Scikit Learn
+  * OpenAI API
 
 Publications
 ======
