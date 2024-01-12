@@ -38,5 +38,5 @@ In the works
   
 Recent Projects
 ======
-* CropUp (https://github.com/abhika-m/cropup)
-* SoundScribe (https://github.com/abhika-m/soundscribe)
+* [CropUp](https://github.com/abhika-m/cropup)
+* [SoundScribe](https://github.com/abhika-m/soundscribe)
