@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CropUp"
+excerpt: "CropUp shares the optimal crops to grow in a certain region by calculating a user's specific plant hardiness zone utilizing a machine learning algorithim that determines the user's zone based on current weather trends, adjusted for the changing climate. <br/><img src='/images/cropup.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+For more information on this project, checkout [CropUp](https://github.com/abhika-m/cropup)
