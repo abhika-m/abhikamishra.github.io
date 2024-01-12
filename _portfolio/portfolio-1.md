@@ -4,4 +4,4 @@ excerpt: "CropUp shares the optimal crops to grow in a certain region by calcula
 collection: portfolio
 ---
 
-For more information on this project, checkout [CropUp](https://github.com/abhika-m/cropup)
+CropUp was a winner at UW's largest hackathon, DubHacks. For more information on this project, checkout [CropUp](https://github.com/abhika-m/cropup)
