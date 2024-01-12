@@ -11,19 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Washington (Expected 2024 December)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant at H2Lab
+  * H2Lab at University of Washington
+  * Mentors: Akari Asai, Vidhisha Balachandran, Yizhong Wang
+  * Supervisor: Professor Hannaneh Hajishirzi
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2022: Software Engineering Intern
+  * Spotnana
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -38,22 +36,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+In the works
   
-Talks
+Recent Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* CropUp (https://github.com/abhika-m/cropup)
+* SoundScribe (https://github.com/abhika-m/soundscribe)
