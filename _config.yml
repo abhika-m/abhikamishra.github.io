@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhika Mishra"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "I am currently pursuing my undergraduate degree in Computer Science at the University of Washington, specializing in research related to the quality of language models."
   location         : "Seattle, WA"
   employer         :
