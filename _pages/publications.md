@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2024
 
-{% include base_path %}
+- __Abhika Mishra__, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham Neubig, Yulia Tsvetkov, and Hannaneh Hajishirzi     
+**Fine-grained Hallucination Detection and Editing for Language Models**
+[\[Paper\]](https://arxiv.org/abs/2401.06855), [\[Website\]](https://fine-grained-hallucination.github.io/), [\[Code\]](https://github.com/abhika-m/FAVA),  [\[Model\]](https://huggingface.co/fava-uw/fava-model), [\[Demo\]](https://huggingface.co/spaces/fava-uw/fava)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
